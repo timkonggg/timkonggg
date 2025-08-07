@@ -10,12 +10,14 @@ I specialize in:
 🌐 **[timkongg.github.io](https://timkongg.github.io/)** – My full portfolio (with videos, experiments, and visual results)
 
 ---
+![Uploading meshquest.png…]()
 
 ## 🧠 Highlight Projects
 
 ### 🎮 Multi-Agent RL in Overcooked-AI using CTDE MAPPO
 
-![Overcooked Video](https://timkongg.github.io/videos/counter_circuit_o_1order.mp4)
+![Overcooked Video](https://github.com/user-attachments/assets/31927998-3be1-40a0-bed3-50c253c63de2)
+
 
 - Trained agents using **MAPPO with Centralized Training and Decentralized Execution (CTDE)**.
 - Designed reward shaping on subgoals and advantage sharing to foster collaboration.
@@ -23,9 +25,10 @@ I specialize in:
 
 ---
 
+
 ### 🚀 Lunar Lander Continuous Control with SAC
 
-![Lunar Lander Video](https://timkongg.github.io/videos/rl-video-episode.mp4)
+![Lunar Lander Video](https://github.com/user-attachments/assets/7b15533f-aa55-4df7-a03b-5efda48dac72)
 
 - Applied **Soft Actor-Critic** to solve LunarLanderContinuous-v3 in Gym.
 - Conducted hyperparameter sweeps on entropy, learning rate, and target update rate.
@@ -36,8 +39,6 @@ I specialize in:
 ### 🧱 MeshQuest: Benchmarking and Fine-Tuning Generative 3D Models
 
 ![MeshQuest](https://timkongg.github.io/images/meshquest.png)
-![MeshQuest 2](https://timkongg.github.io/images/meshquest2.png)
-![MeshQuest 3](https://timkongg.github.io/images/meshquest3.png)
 
 - Benchmarked **Hunyuan3D, OpenLRM, One-2-3-45, Pixel2Mesh** on 16 stylized low-poly assets.
 - Fine-tuned **OpenLRM** on 734 asset dataset with **DINOv2**, **triplane NeRF**, and **TV regularization**.
