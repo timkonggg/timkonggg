@@ -10,15 +10,12 @@ I specialize in:
 🌐 **[timkongg.github.io](https://timkongg.github.io/)** – My full portfolio (with videos, experiments, and visual results)
 
 ---
-![Uploading meshquest.png…]()
 
 ## 🧠 Highlight Projects
 
 ### 🎮 Multi-Agent RL in Overcooked-AI using CTDE MAPPO
 
-<video src='https://github.com/user-attachments/assets/31927998-3be1-40a0-bed3-50c253c63de2' />
-![Overcooked Video]()
-
+<video autoplay loop muted playsinline src='https://github.com/user-attachments/assets/31927998-3be1-40a0-bed3-50c253c63de2'>
 
 - Trained agents using **MAPPO with Centralized Training and Decentralized Execution (CTDE)**.
 - Designed reward shaping on subgoals and advantage sharing to foster collaboration.
