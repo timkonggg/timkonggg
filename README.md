@@ -54,5 +54,3 @@ I specialize in:
 
 ---
 
-> “Building scalable, research-grade systems at the intersection of ML, simulation, and real-time graphics.”
-
