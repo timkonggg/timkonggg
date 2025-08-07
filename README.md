@@ -15,7 +15,7 @@ I specialize in:
 
 ### 🎮 Multi-Agent RL in Overcooked-AI using CTDE MAPPO
 
-<video autoplay loop muted playsinline src='https://github.com/user-attachments/assets/31927998-3be1-40a0-bed3-50c253c63de2'>
+![counter_circuit_o_1order-ezgif com-speed](https://github.com/user-attachments/assets/5bf1530e-0903-460a-835d-0d39f6ee623d)
 
 - Trained agents using **MAPPO with Centralized Training and Decentralized Execution (CTDE)**.
 - Designed reward shaping on subgoals and advantage sharing to foster collaboration.
@@ -26,7 +26,7 @@ I specialize in:
 
 ### 🚀 Lunar Lander Continuous Control with SAC
 
-![Lunar Lander Video](https://github.com/user-attachments/assets/7b15533f-aa55-4df7-a03b-5efda48dac72)
+![lunarlander](https://github.com/user-attachments/assets/e59449db-3993-49bc-86c3-ca8f3cc85119)
 
 - Applied **Soft Actor-Critic** to solve LunarLanderContinuous-v3 in Gym.
 - Conducted hyperparameter sweeps on entropy, learning rate, and target update rate.
